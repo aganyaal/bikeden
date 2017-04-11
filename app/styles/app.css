@@ -1,0 +1,49 @@
+#albody{
+  background-color: black;
+  text-align: center;
+  overflow: hidden;
+  color: black;
+}
+
+#alheader{
+  min-height: 20vh;
+  min-width: 100vw;
+  background-color:white;
+  text-align:center;
+  padding-top: 20px;
+  color: #51C8A4;
+  background-color: black;
+  /*background-image: url(https://s-media-cache-ak0.pinimg.com/originals/11/d1/4c/11d14cc154105a4dc25ffe29f4bc91e3.gif);*/
+  background-size: contain;
+}
+
+.jumbotron{
+  background-color: #6C6A62;
+}
+
+.feedback{
+  height: 50px;
+}
+
+#alheader:hover{
+  color: black;
+}
+
+#aldiva{
+  background-image: url(http://innovix.com.do/Call-Center.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #EFF5F7;
+  min-height: 80vh;
+  min-width: 50vw;
+}
+
+#aldivb{
+  background-image: url(http://storiesfromreality.tv/data/style/grafik/feedback.gif);
+  background-size: contain;
+  background-color: #EFF0F7;
+  min-height: 80vh;
+  min-width: 50vw;
+  padding-top: 10px;
+  padding-right: 20px;
+}
